@@ -30,7 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![Screenshot ](https://user-images.githubusercontent.com/86495524/192658793-6b6ab2a4-2239-4c4e-97dc-3fabc7ccbb46.png)
+
 
 
 ### Links
@@ -54,6 +55,7 @@ Users should be able to:
 
 I learnt more and understood the process of email validation with regular expressins in javascript.
 
+![email-validation](https://user-images.githubusercontent.com/86495524/192658840-8863edfd-958f-4ac0-9597-75ce08f89263.png)
 
 
 
